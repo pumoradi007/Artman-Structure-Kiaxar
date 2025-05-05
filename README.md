@@ -1,3 +1,6 @@
-# Artman-Structure-Kiaxar
-ما مجری واردات و صادرات رنگ خودرو هستیم 
-
+git init
+git add .
+git commit -m "Initial commit: Kiaxar frontend scaffold"
+git branch -M main
+git remote add origin https://github.com/<YourUsername>/kiaxar-shop-client.git
+git push -u origin main
